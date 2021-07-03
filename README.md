@@ -1,4 +1,5 @@
 # Twitch
+See more on https://tiashe573.wixsite.com/resume<br />
 Twitch+: A Personalized Twitch Resources Recommendation Engine <br />
 ·Designed and built a full-stack web application for users to search twitch resources (stream/video/clip) and get recommendations.  <br />
 ·Built a web page with rich + user friendly experience using React and Ant Design <br />
